@@ -6,7 +6,7 @@ public class github_practice {
 	
 	System.out.println("I would like to use github.");
 	
-	//then I make a comment
+	System.out.println("change made!");
 
   }
 }
