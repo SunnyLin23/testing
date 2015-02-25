@@ -6,7 +6,7 @@ public class github_practice {
 	
 	System.out.println("I would like to use github.");
 	
-    System.out.println("I just dont believe!!!");
+  
 
   }
 }
